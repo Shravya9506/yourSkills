@@ -1,4 +1,4 @@
-# skills-list
+# yourSkills
 
 ## Project setup
 ```
